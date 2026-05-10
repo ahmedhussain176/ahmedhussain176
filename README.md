@@ -54,7 +54,6 @@ I'm a **Full Stack Developer** and **Cybersecurity Expert** passionate about bui
 
 💼 **LinkedIn** → [ahmedhussain006](https://linkedin.com/in/ahmedhussain006)  
 🐙 **GitHub** → [ahmedhussain176](https://github.com/ahmedhussain176)  
-💬 **WhatsApp** → [+92-3360215325](https://wa.me/923360215325)  
 🌐 **Portfolio** → [ahmed-hussain-dev.vercel.app](https://ahmed-hussain-dev.vercel.app)  
 🎖️ **Credly** → [ahmed-hussain006](https://credly.com/users/ahmed-hussain006)
 
