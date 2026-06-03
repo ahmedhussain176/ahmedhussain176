@@ -74,7 +74,7 @@ I'm a **Full Stack Developer** and **Cybersecurity Expert** passionate about bui
 ║                                                                ║
 ║                      This is who I am.                         ║
 ║                                                                ║
- ║                      DEMO || DEVELOPER                         ║  
+  ║                      DEMO || DEVELOPER                         ║  
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
