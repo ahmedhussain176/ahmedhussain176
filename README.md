@@ -17,8 +17,8 @@
 ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝    ██║  ██║╚██████╔╝███████║███████║██║  ██║██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
-Full Stack Developer | Ethical Hacker | Cybersecurity Expert  
-📍 Hyderabad, Pakistan | 🟢 Ready for Impact
+ Red Hat Hacker • Full Stack Developer • Security Researcher
+ 📍 Hyderabad, Pakistan | 🟢 Ready for Impact
 
 </div>
 
