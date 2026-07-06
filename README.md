@@ -18,7 +18,8 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
  Red Hat Hacker • Full Stack Developer • Security Researcher
- 📍 Hyderabad, Pakistan | 🟢 Ready for Impact
+ 
+ 📍 Pakistan | 🟢 Ready for Impact
 
 </div>
 
