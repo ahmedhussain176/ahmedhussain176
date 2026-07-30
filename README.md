@@ -17,7 +17,7 @@
 ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝    ██║  ██║╚██████╔╝███████║███████║██║  ██║██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
- Red Hat Hacker • Full Stack Developer • Security Researcher
+Red Hat Hacker | Tool Builder | Offensive Security Researcher | Full Stack Developer | Red Teamer
  
  📍 Pakistan | 🟢 Ready for Impact
 
